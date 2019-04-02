@@ -1,4 +1,4 @@
-package com.weitongming.weixin;
+package weixin;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

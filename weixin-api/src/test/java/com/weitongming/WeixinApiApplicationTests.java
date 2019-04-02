@@ -1,4 +1,4 @@
-package com.weitongming.weixin;
+package com.weitongming;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
@@ -7,7 +7,7 @@ import org.springframework.test.context.junit4.SpringRunner;
 
 @RunWith(SpringRunner.class)
 @SpringBootTest
-public class WeixinApplicationTests {
+public class WeixinApiApplicationTests {
 
 	@Test
 	public void contextLoads() {
